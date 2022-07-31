@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MathLibrary.Addition">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Addition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.BinaryOperation" Collapsed="true">
+    <Position X="4.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BinaryOperation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathLibrary.UnaryOperation" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryOperation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathLibrary.Division">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Division.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.Multiplication" Collapsed="true">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Multiplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.Power" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Power.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.Subtraction" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subtraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.Absolute" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Absolute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.ExpressionEvaluator" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAgAAAIAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>ExpressionEvaluator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.InfixToPostfix" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfixToPostfix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.LogBase10" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogBase10.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.NaturalLog" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NaturalLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.Negate" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Negate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.Reciprocal" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reciprocal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.SquareRoot" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SquareRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.Strings" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEQhABECUAAQABAAAABAAQAQAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.Token" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Token.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MathLibrary.IOperation" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOperation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MathLibrary.TokenType" Collapsed="true">
+    <Position X="16.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Token.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

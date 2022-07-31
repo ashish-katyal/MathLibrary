@@ -1,0 +1,29 @@
+{
+  "operator": [
+    {
+      "symbol": "^",
+      "operation": "Power",
+      "precedence": 3
+    },
+    {
+      "symbol": "*",
+      "operation": "Multiply",
+      "precedence": 2
+    },
+    {
+      "symbol": "/",
+      "operation": "Divide",
+      "precedence": 2
+    },
+    {
+      "symbol": "+",
+      "operation": "Add",
+      "precedence": 1
+    },
+    {
+      "symbol": "-",
+      "operation": "Subtract",
+      "precedence": 1
+    }
+  ]
+}

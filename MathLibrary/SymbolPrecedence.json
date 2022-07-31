@@ -1,0 +1,62 @@
+{
+  "add": {
+    "symbol": "+",
+    "precedence": 1,
+    "operatorType": "binary"
+  },
+  "subtract": {
+    "symbol": "-",
+    "precedence": 1,
+    "operatorType": "binary"
+  },
+  "absolute": {
+    "symbol": "abs",
+    "precedence": 4,
+    "operatorType": "unary"
+  },
+  "divide": {
+    "symbol": "/",
+    "precedence": 2,
+    "operatorType": "binary"
+  },
+  "naturalLog": {
+    "symbol": "ln",
+    "precedence": 4,
+    "operatorType": "unary"
+  },
+  "logBase10": {
+    "symbol": "log",
+    "precedence": 4,
+    "operatorType": "unary"
+  },
+  "multiply": {
+    "symbol": "*",
+    "precedence": 2,
+    "operatorType": "binary"
+  },
+  "negate": {
+    "symbol": "neg",
+    "precedence": 4,
+    "operatorType": "unary"
+  },
+  "percent": {
+    "symbol": "%",
+    "precedence": 4,
+    "operatorType": "unary"
+  },
+  "power": {
+    "symbol": "^",
+    "precedence": 3,
+    "operatorType": "binary"
+  },
+  "reciprocal": {
+    "symbol": "reci",
+    "precedence": 4,
+    "operatorType": "unary"
+  },
+  "squareRoot": {
+    "symbol": "sqrt",
+    "precedence": 4,
+    "operatorType": "unary"
+  }
+}

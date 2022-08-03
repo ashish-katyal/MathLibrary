@@ -1,5 +1,5 @@
 # MathLibrary
-* A C# based desktop calculator application along with GUI made using WIndows Forms Library. 
+* A C# based desktop calculator application along with GUI made using Windows Forms Library. 
 * The math library is robust and scalable with feature to add custom operation. 
 * The operator symbols and precedences are imported from a JSON file giving you freedom to change the symbols and precedence of operators.
 
